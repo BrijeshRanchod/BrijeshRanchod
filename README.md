@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificiial Intelligence 
 - 🌱 I’m currently learning Python, Javascript
 - 💞️ I’m looking to collaborate on all projects
-- 📫 How to reach me email me at: brijeshmranchod
+- 📫 How to reach me email me at: brijeshmranchod@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Coding is a part of life
 
